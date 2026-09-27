@@ -22,7 +22,7 @@ root.geometry(f"{screen_width}x{window_height}+0+0")
 title = tk.Label(root, text="REACTION TIME TESTER", font=("Arial", 40))
 title.pack()
 
-instructions = tk.Label(root, text="Click when the text changes!", font=("Arial", 20))
+instructions = tk.Label(root, text="Click when the text changes!\nThe text will change between 1 to 5 seconds!", font=("Arial", 20))
 instructions.pack(pady=20)
 
 def start_test():

@@ -25,3 +25,8 @@ Run the Python file.
 **Made with**
 
 Python and Tkinter.
+
+**Future improvements**
+
+- Add difficulty levels.
+
